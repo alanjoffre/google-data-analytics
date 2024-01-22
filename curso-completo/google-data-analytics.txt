@@ -1,0 +1,238 @@
+Curso - Google Data Analytics
+
+As seis etapas do processo de análise de dados são: perguntar, preparar, processar, analisar, compartilhar e agir. 
+Essas seis etapas se aplicam a qualquer análise de dados.
+
+Os analistas fizeram PERGUNTAS para definir o problema a ser resolvido e o que seria um resultado bem-sucedido. 
+Em seguida, eles se PREPARARAM, criando um cronograma e coletando dados com pesquisas de funcionários elaboradas para serem inclusivas. 
+Eles PROCESSARAM os dados, limpando-os para garantir que estivessem completos, corretos, relevantes e sem erros e outliers 
+(dados discrepantes). Eles ANALISARAM os dados limpos da pesquisa com os funcionários. Em seguida, os analistas COMPARTILHARAM as 
+descobertas e recomendações com os líderes de equipe. Posteriormente, a liderança AGIU com os resultados e se concentrou na melhoria 
+das áreas principais. 
+
+Para leitura complementar: https://online.hbs.edu/blog/post/business-analytics-examples
+
+O QUE É ANÁLISE DE NEGÓCIOS?
+Análise de negócios é o uso de matemática e estatísticas para coletar, analisar e interpretar dados para tomar melhores 
+decisões de negócios.
+
+Existem quatro tipos principais de análise de negócios: descritiva, preditiva, diagnóstica e prescritiva. 
+
+Análise descritiva é a interpretação de dados históricos para identificar tendências e padrões, enquanto análise 
+Preditiva centra-se em pegar essas informações e usá-las para prever resultados futuros. 
+Análise de diagnóstico pode ser usada para identificar a causa raiz de um problema. 
+No caso da análise Prescritiva, testes e outras técnicas são empregados para determinar qual resultado produzirá o melhor
+resultado em um determinado cenário.
+
+Pergunta:
+
+Em análise de dados, qual é o termo para elementos que interagem entre si para produzir, gerenciar, armazenar, organizar, analisar 
+e compartilhar dados? 
+
+(correta) Ecossistemas de dados
+Sistemas de armazenamento de dados
+Mapas de dados
+Composições de dados
+
+Correto
+Os elementos que interagem entre si para produzir, gerenciar, armazenar, organizar, analisar e compartilhar dados 
+são ecossistemas de dados. Esses elementos incluem ferramentas de hardware e software, bem como as pessoas que os usam. 
+
+Pergunta:
+
+Identifique os exemplos reais de como uma empresa pode tomar decisões com base em dados. Selecione todas as opções aplicáveis.
+
+
+Sugerir músicas novas a um cliente com base no histórico de audição dele
+Correto
+Exemplos reais de tomadas de decisões com base em dados incluem sugerir músicas novas para um cliente, agendar um certo número de funcionários do restaurante para trabalhar e escolher soluções de comércio eletrônico com base em fatos estabelecidos. A tomada de decisões com base em dados está usando fatos para orientar a estratégia de negócios. 
+
+
+Tomar decisões de gastos com base no instinto do contador da empresa
+
+
+Escolher soluções de comércio eletrônico com base nas preferências de compra do cliente
+Correto
+Exemplos reais de tomadas de decisões com base em dados incluem sugerir músicas novas para um cliente, agendar um certo número de funcionários do restaurante para trabalhar e escolher soluções de comércio eletrônico com base em fatos estabelecidos. A tomada de decisões com base em dados está usando fatos para orientar a estratégia de negócios. 
+
+
+Agendar um certo número de funcionários do restaurante para trabalhar com base no número médio de frequentadores na hora do almoço
+Correto
+Exemplos reais de tomadas de decisões com base em dados incluem sugerir músicas novas para um cliente, agendar um certo número de funcionários do restaurante para trabalhar e escolher soluções de comércio eletrônico com base em fatos estabelecidos. A tomada de decisões com base em dados está usando fatos para orientar a estratégia de negócios. 
+
+*** Dados e instinto
+
+Detetives e analistas de dados têm muito em comum. Os dois grupos dependem de fatos e pistas para tomar decisões. 
+Ambos coletam e examinam as evidências. Os dois conversam com pessoas que conhecem parte da história. 
+E ambos podem até seguir algumas pistas para ver aonde elas levam. Seja você um detetive ou um analista de dados, 
+seu trabalho consiste em seguir etapas para coletar e compreender fatos.
+
+Os analistas usam a tomada de decisões com base em dados e seguem um processo passo a passo. 
+Você aprendeu que há seis etapas nesse processo:
+
+Fazer perguntas e definir o problema.
+Preparar os dados, coletando e armazenando as informações.
+Processar os dados, limpando e verificando as informações.
+Analisar os dados para encontrar padrões, relações e tendências.
+Compartilhar dados com seu público.
+Agir com base nos dados e usar os resultados da análise.
+
+No entanto, há outros fatores que influenciam o processo de tomada de decisões. 
+Você pode ter lido histórias de mistério em que o detetive usava o instinto e seguia um palpite que o ajudava a resolver o caso. 
+Instinto é uma compreensão intuitiva de algo com pouca ou nenhuma explicação. Nem sempre isso é algo consciente. 
+Com frequência, captamos os sinais sem nem perceber. Você apenas tem uma “sensação” de que tem razão.
+
+*** Por que o instinto pode ser um problema
+Os dados estão no centro da tomada de decisões com base em dados. Portanto, é essencial que os analistas de dados se concentrem 
+nos dados para garantir que tomem decisões informadas. Se você ignorar os dados, preferindo tomar decisões com base na própria 
+experiência, elas poderão ser tendenciosas. Mas, pior ainda, decisões com base no instinto e sem nenhum dado para apoiá-las podem 
+causar erros.
+
+Pense no exemplo de uma licitação de uma incorporadora imobiliária para reconstruir uma parte do distrito central de uma cidade. 
+Ela era conhecida pela preservação de edifícios históricos. Com base na reputação que tinha, os planejadores da agência seguiram 
+o instinto e incluíram a preservação de vários edifícios para conseguir apoio e aprovação para o projeto. No entanto, as doações 
+privadas ficaram aquém e nenhuma parceria chegou a tempo para resolver a situação. Depois de muito atraso e uma cara disputa com 
+a cidade, os edifícios tiveram de ser demolidos.
+
+Quanto mais você entender os dados relacionados a um projeto, mais fácil será descobrir o que é necessário. 
+Esses esforços também ajudarão a identificar erros e lacunas nos dados para conseguir comunicar as descobertas com mais eficácia. 
+Às vezes, a experiência anterior ajuda você a fazer uma conexão que ninguém mais notaria. Por exemplo, um detetive pode resolver 
+um caso porque se lembra de outro antigo igual ao que está resolvendo no momento. Isso não é apenas instinto.
+
+***Dados + conhecimento dos negócios = mistério resolvido
+Combinar dados com conhecimento de negócios e talvez com um toque de instinto será uma parte comum do seu processo como analista 
+de dados júnior. A chave é descobrir a combinação exata para cada projeto específico. Muitas vezes, isso dependerá das metas de 
+sua análise. É por isso que os analistas costumam perguntar: “Como posso definir o sucesso desse projeto?”.
+
+Além disso, tente fazer estas perguntas sobre um projeto para ajudar a encontrar o equilíbrio perfeito:
+
+Que tipo de resultado é necessário?
+Quem será informado?
+Estou respondendo à pergunta que está sendo feita?
+Com que rapidez uma decisão precisa ser tomada?
+Por exemplo, se você estiver trabalhando em um projeto urgente, talvez precise confiar em seu próprio conhecimento e em sua 
+experiência mais do que o normal. Não há tempo suficiente para analisar completamente todos os dados disponíveis. 
+No entanto, se você tiver um projeto que envolva muito tempo e recursos, a melhor estratégia será se basear mais nos dados. 
+Cabe a você, como analista de dados, fazer a melhor escolha possível. Provavelmente, você combinará dados e conhecimento de um 
+milhão de maneiras diferentes ao longo da carreira em análise de dados. Quanto mais você praticar, melhor encontrará a combinação 
+perfeita.
+
+***Origens do processo de análise de dados
+Quando você decidiu aderir a este programa, provou ser uma pessoa curiosa. Portanto, vamos explorar sua curiosidade e falar das 
+origens da análise de dados. Não sabemos totalmente quando ou por que a primeira pessoa decidiu registrar dados sobre pessoas e 
+coisas. Mas sabemos que isso foi útil, porque a ideia existe ainda hoje.  
+
+Também sabemos que as raízes da análise de dados estão na estatística, que também têm uma história longa. 
+Os arqueólogos consideram a construção das pirâmides, no antigo Egito, como o início da estatística. 
+Os egípcios antigos eram mestres na organização de dados. Eles documentaram os cálculos e as teorias em papiros 
+(materiais semelhantes a papel), que agora são vistos como os primeiros exemplos de planilhas e listas de verificação. 
+Os analistas de dados atuais devem muito a esses escribas brilhantes, que ajudaram a criar um processo mais técnico e eficiente.
+
+É hora de entrar no ciclo de vida da análise de dados, o processo de ir dos dados à decisão. 
+Os dados passam por várias fases conforme são criados, consumidos, testados, processados e reutilizados. 
+Com um modelo de ciclo de vida, todos os principais membros da equipe podem alcançar o sucesso, planejando o trabalho tanto no 
+início quanto no fim do processo de análise de dados. O ciclo de vida da análise de dados é bem conhecido entre os especialistas, 
+mas não existe uma única estrutura definida dessas fases. Pode não haver uma única arquitetura uniformemente seguida por todos os
+especialistas em análise de dados, mas há alguns fundamentos compartilhados em todos os processos de análise de dados. 
+Neste texto, fornecemos uma visão geral de vários deles, começando com o processo que constitui a base do Certificado de Análise 
+de Dados do Google.
+
+O processo apresentado como parte do Certificado de Análise de Dados do Google é valioso à medida que você avança na carreira:
+
+Perguntar: pergunta/objetivo/desafio de negócios
+Preparar: geração, coleta, armazenamento e gerenciamento de dados
+Processar: limpeza/integridade de dados
+Analisar: exploração, visualização e análise de dados
+Compartilhar: comunicação e interpretação de resultados 
+Agir:  aplicação dos insights com o objetivo de resolver o problema
+
+Compreender esse processo (e todas as iterações que ajudaram a torná-lo conhecido) será uma grande parte na orientação de sua 
+própria análise e de seu trabalho neste programa. Vamos examinar algumas outras variações do ciclo de vida da análise de dados.
+
+***Ciclo de vida da análise de dados da EMC
+O ciclo de vida da análise de dados da EMC Corporation é cíclico, com seis etapas:
+
+Descoberta
+Pré-processamento de dados
+Planejamento de modelo
+Criação de modelos
+Comunicação dos resultados
+Operacionalização
+
+A EMC Corporation agora é Dell EMC. Este modelo, criado por David Dietrich, reflete a natureza cíclica dos projetos reais. 
+As fases não são marcos estáticos: cada etapa se conecta e leva à próxima e, no fim das contas, se repete. As perguntas-chave 
+ajudam os analistas a testar se realizaram o suficiente para seguir em frente e garantir que as equipes tenham passado tempo 
+suficiente em cada uma das fases e não comecem a modelar antes de os dados ficarem prontos. É um pouco diferente do ciclo de 
+vida da análise de dados em que este programa se baseia, mas tem algumas ideias centrais em comum: a primeira fase está 
+interessada em descobrir e fazer perguntas, os dados precisam ser preparados antes de serem analisados e usados, e então as 
+descobertas precisam ser compartilhadas e colocadas em prática.
+
+Para mais informações, consulte: 
+https://www.dell.com/en-us/blog/?r=infocus.delltechnologies.com/david_dietrich/the-genesis-of-emcs-data-analytics-lifecycle/
+
+
+***Ciclo de vida iterativo da SAS
+Um ciclo de vida iterativo foi criado por uma empresa chamada SAS, uma provedora de soluções de análise de dados líder no mercado. 
+Ele pode ser usado para produzir resultados repetíveis, confiáveis e preditivos:
+
+Perguntar
+Preparar
+Explorar
+Modelar
+Implementar
+Agir
+Avaliar
+
+O modelo SAS enfatiza a natureza cíclica do modelo, visualizando-o como um símbolo de infinito. O ciclo de vida dele tem sete etapas,
+muitas das quais vimos em outros modelos, como Perguntar, Preparar, Modelar e Agir. Mas esse ciclo de vida também é um pouco diferente. 
+Ele inclui uma etapa após a fase de ação, desenvolvida para ajudar os analistas a avaliar as soluções e, potencialmente, retornar de 
+novo à fase das perguntas. 
+
+Para mais informações, consulte 
+Como gerenciar o ciclo de vida da análise para decisões em escala
+
+***Ciclo de vida da análise de dados com base em projeto
+Um ciclo de vida da análise de dados com base em projeto tem cinco etapas simples:
+
+Identificação do problema
+Desenvolvimento dos requisitos de dados
+Pré-processamento de dados
+Execução da análise de dados
+Visualização dos dados
+
+Esse ciclo de vida do projeto de análise de dados foi desenvolvido por Vignesh Prajapati. Não inclui a sexta fase, ou o que chamamos 
+fase da ação (Agir). No entanto, ainda aborda muitas das mesmas etapas dos ciclos de vida que já descrevemos. Ele começa com a 
+identificação do problema e a preparação e o processamento dos dados antes da análise e termina com a visualização dos dados.
+
+Para mais informações, consulte:
+https://pingax.com/Data%20Analyst/understanding-data-analytics-project-life-cycle/
+Como compreender o ciclo de vida do projeto da análise de dados
+
+***Ciclo de vida da análise de big data
+Os autores Thomas Erl, Wajid Khattak e Paul Buhler propuseram um ciclo de vida da análise de big data no livro Big Data Fundamentals: 
+Concepts, Drivers & Techniques. O ciclo de vida deles sugere fases divididas em nove etapas:
+
+Avaliação do caso de negócios
+Identificação dos dados
+Aquisição e filtragem dos dados
+Extração dos dados
+Validação e limpeza dos dados
+Agregação e representação dos dados
+Análise dos dados
+Visualização dos dados
+Utilização dos resultados da análise
+
+Esse ciclo de vida parece ter três ou quatro etapas a mais do que os modelos de ciclo de vida anteriores. Mas, na realidade, 
+eles apenas dividiram o que chamamos de fases “Preparar” e “Processar” em etapas menores. Isso enfatiza as tarefas individuais 
+necessárias para coletar, preparar e limpar os dados antes da fase de análise.
+
+Para mais informações, consulte: 
+https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808 
+
+Considerações sobre adoção e planejamento de Big Data
+
+Principal conclusão
+De nossa jornada até as pirâmides e os dados do antigo Egito até agora, a forma como analisamos os dados evoluiu (e continua evoluindo). O processo de análise de dados é 
+como a arquitetura da vida real: há diferentes maneiras de realizar as tarefas, mas as mesmas ideias centrais ainda aparecem em cada 
+modelo do processo. Quer você use a estrutura deste Certificado de Análise de Dados do Google, quer use uma das muitas outras iterações
+que aprendeu, estamos aqui para ajudar a continuar em sua jornada de dados.
